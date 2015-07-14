@@ -31,6 +31,7 @@
         "name": "Tobias Ebnöther",
         "email": "ebi@gorn.ch"
     }],
+    "license": "BSD-3-Clause",
     "main": "./lib/test-cli",
     "repository": {
         "type": "git",
